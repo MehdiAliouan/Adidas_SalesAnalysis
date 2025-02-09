@@ -15,7 +15,7 @@ Action: The following actions were taken:
 Imported the sales data into Power BI.
 Cleaned and prepared the data for analysis.
 Created various visualizations including bar charts, line charts, and pie charts to represent sales metrics.
-Published the Power BI report for stakeholders to review.
+Published the Power BI report.
 
 Result: 
 
